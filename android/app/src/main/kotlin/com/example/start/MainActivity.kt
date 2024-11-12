@@ -1,4 +1,4 @@
-package com.example.start
+package wanderj.auth.flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
